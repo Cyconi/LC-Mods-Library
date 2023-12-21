@@ -1,1 +1,25 @@
 # LC Mod Library
+## Collection of the mods I have made
+
+
+# Camera Plus
+
+Adds more functionallity to the player camera
+Fully compatable with BepinEx and MelonLoader
+Place DLL file into BepinEx plugins folder or MelonLoader mods folder
+Currantly updated for v45 of Lethal Company
+  - Cyconi
+
+## Features
+* FOV adjustments
+* Camera Dynamic Zoom
+* Camera 3rd Person
+
+## Keybinds
+* Mouse5          | zoom
+* Middle Mouse    | reset FOV
+* Scroll (Zoom)   | adjust zoom FOV
+* Scroll (3rd)    | adjust the camera distance
+* Crtl + T        | cycle camera (1st, 3rd)
+* Arrow Up / Down | adjust FOV for all cameras
+* Will add keybinds later
