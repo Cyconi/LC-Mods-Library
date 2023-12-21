@@ -4,10 +4,14 @@
 
 # Camera Plus
 
-Adds more functionallity to the player camera
-Fully compatable with BepinEx and MelonLoader
-Place DLL file into BepinEx plugins folder or MelonLoader mods folder
-Currantly updated for v45 of Lethal Company
+Adds more functionality to the player camera
+
+Fully compatible with BepinEx and MelonLoader
+
+Place the DLL file into BepinEx plugins folder or MelonLoader mods folder
+
+Currently updated for v45 of Lethal Company
+
   - Cyconi
 
 ## Features
